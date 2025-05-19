@@ -44,7 +44,3 @@
 
 ---
 
-## 📂 Estrutura dos Arquivos
-
-Cada projeto possui um arquivo `.ino` com o código-fonte principal. A estrutura do repositório é a seguinte:
-
