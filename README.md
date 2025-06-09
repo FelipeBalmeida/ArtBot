@@ -10,7 +10,7 @@
   - Cada botão toca uma nota musical diferente.
   - Cada botão também acende um LED correspondente.
 
-	![Dazzling Jofo.png](Piano/Dazzling Jofo.png)
+![Dazzling Jofo.png](Piano/Dazzling Jofo.png)
 ---
 
 ### 2. 🚘 Sensor de Estacionamento
